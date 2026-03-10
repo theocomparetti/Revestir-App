@@ -1,4 +1,4 @@
-# Revestir-App
+# projeto-revestir-arquitetura
 Documentação e modelação de arquitetura para um sistema solidário de doações.
 # 🚀 Projeto Revestir: Engenharia de Requisitos e Arquitetura de Sistemas
 
