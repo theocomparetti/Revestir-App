@@ -21,3 +21,5 @@ A proteção dos dados e a conformidade legal foram tratadas como prioridades no
 * **Compliance:** Sistema projetado em total conformidade com a LGPD (Lei Geral de Proteção de Dados), garantindo a privacidade dos usuários.
 * **Autenticação Segura:** Implementação do padrão JWT (JSON Web Tokens) e previsão de Autenticação Multifator (MFA).
 * **Criptografia:** Utilização de algoritmos de hash seguros (bcrypt) para armazenamento de senhas, além de criptografia SSL/TLS para dados em trânsito e AES para dados em repouso.
+[REVESTIR.WEBSITE.pdf](https://github.com/user-attachments/files/25877684/REVESTIR.WEBSITE.pdf)
+* 
